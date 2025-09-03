@@ -1,5 +1,5 @@
 # 💫 About Me:
-A dedicated Quality Assurance Engineer with 1 year of experience, proficient in delivering high-quality software through meticulous test planning, execution, and bug reporting. Skilled in leveraging automation tools like Selenium and WebdriverIO, with experience in API testing. I also have a strong foundation in web development (MERN stack), enabling a comprehensive understanding of both frontend and backend systems.
+A dedicated Quality Assurance Engineer with 2 year of experience, proficient in delivering high-quality software through meticulous test planning, execution, and bug reporting. Skilled in leveraging automation tools like Selenium and WebdriverIO, with experience in API testing. I also have a strong foundation in web development (MERN stack), enabling a comprehensive understanding of both frontend and backend systems.
 
 
 ## 🌐 Socials:
